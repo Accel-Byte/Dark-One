@@ -32,14 +32,7 @@ To Launch :
 
 Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
-### With Font [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
-  ![Alt text](images/CascadiaCode2.png?raw=true "CPP")
-  <br />
-### With Font Operator Mono
-
-  ![Alt text](images/OperatorMono2.png?raw=true "CPP")
-  <br />
 
 ### C++
 
