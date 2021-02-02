@@ -2,13 +2,13 @@
     "name": "dev1ce",
     "displayName": "Dark One",
     "description": "Best Theme For Dark Mode",
-    "version": "0.4.10",
+    "version": "0.4.17",
     "engines": {
         "vscode": "^1.44.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/CherisPatel/Dark-One.git"
+        "url": "https://github.com/Accel-Byte/Dark-One.git"
     },
     "icon": "images/logoRound.png",
     "categories": [
