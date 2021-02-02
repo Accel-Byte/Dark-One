@@ -32,16 +32,16 @@ To Launch :
 
 Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
-
-
 ### C++
 
   ![Alt text](images/cpp.PNG)
   <br />
-  ### HTML/php
+
+### HTML/php
   ![Alt text](images/html.PNG)
   <br />
-  ### css/scss
+
+### css/scss
   ![Alt text](images/scss.PNG)
  <br />
  
