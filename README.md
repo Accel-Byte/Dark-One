@@ -36,13 +36,13 @@ Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
 ### C++
 
-  ![Alt text](images/cpp.PNG?raw=true "CPP")
+  ![Alt text](images/cpp.PNG)
   <br />
   ### HTML/php
-  ![Alt text](images/html.PNG?raw=true "HTML")
+  ![Alt text](images/html.PNG)
   <br />
   ### css/scss
-  ![Alt text](images/scss.PNG?raw=true "CSS")
+  ![Alt text](images/scss.PNG)
  <br />
  
 
