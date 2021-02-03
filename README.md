@@ -34,15 +34,15 @@ Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
 ### C++
 
-  ![Alt text](Images/cpp.PNG)
+  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/cpp.PNG?raw=true)
   <br />
 
 ### HTML/php
-  ![Alt text](Images/html.PNG)
+  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/html.PNG?raw=true)
   <br />
 
 ### css/scss
-  ![Alt text](Images/scss.PNG)
+  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/scss.PNG?raw=true)
  <br />
  
 
