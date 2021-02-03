@@ -2,7 +2,7 @@
     "name": "dev1ce",
     "displayName": "Dark One",
     "description": "Best Theme For Dark Mode",
-    "version": "0.4.21",
+    "version": "0.4.18",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "temp",
+                "label": "Dark One",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dev1ce-color-theme.json"
             }
