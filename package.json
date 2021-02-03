@@ -2,7 +2,7 @@
     "name": "dev1ce",
     "displayName": "Dark One",
     "description": "Best Theme For Dark Mode",
-    "version": "0.4.21",
+    "version": "0.5.0",
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "https://github.com/Accel-Byte/Dark-One.git"
     },
-    "icon": "images/logoRound.png",
+    "icon": "Images/logoRound.png",
     "categories": [
         "Themes"
     ],
