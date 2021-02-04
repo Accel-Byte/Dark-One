@@ -34,5 +34,5 @@ Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
 ### Snapshot
 
-  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/React.png?raw=true)
+  ![Snapshot](https://github.com/Accel-Byte/Dark-One/blob/main/Images/React.png?raw=true)
   <br />
