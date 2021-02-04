@@ -32,17 +32,7 @@ To Launch :
 
 Type `theme`, choose `Preferences: Color Theme`, and select Dark One.
 
-### C++
+### Snapshot
 
-  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/cpp.PNG?raw=true)
+  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/React.png?raw=true)
   <br />
-
-### HTML/php
-  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/html.PNG?raw=true)
-  <br />
-
-### css/scss
-  ![Alt text](https://github.com/Accel-Byte/Dark-One/blob/main/Images/scss.PNG?raw=true)
- <br />
- 
-
