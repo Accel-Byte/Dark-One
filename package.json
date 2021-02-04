@@ -2,7 +2,7 @@
     "name": "dev1ce",
     "displayName": "Dark One",
     "description": "Best Theme For Dark Mode",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "engines": {
         "vscode": "^1.44.0"
     },
