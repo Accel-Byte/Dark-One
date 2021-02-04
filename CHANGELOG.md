@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "dev1ce" extension will be documented in this file.
+## [0.6.1] - 2021-04-02
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Update Sidebar and Statusbar color
+- Update Screenshot
