@@ -1,5 +1,13 @@
 # Dark One Theme For Vs Code
 
+<br/>
+ <div align="center">
+    <a href="https://github.com/Accel-Byte/Dark-One">
+        <img src="https://github.com/Accel-Byte/Dark-One/blob/main/Images/256/logo.png?raw=true" alt="logo">
+    </a>
+</div>
+<br/>
+
 [Dark One](https://marketplace.visualstudio.com/items?itemName=dev1ce.dev1ce) is a theme for dark mode.
 
 <p align="center">
@@ -10,7 +18,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=dev1ce.dev1ce">&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Ratings" src="https://vsmarketplacebadge.apphb.com/rating-star/dev1ce.dev1ce.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"></a>
  </p>
- 
+
 
 ## Snapshot
 
